@@ -1,0 +1,1 @@
+export { MongoliaMap } from "./MongoliaMap";

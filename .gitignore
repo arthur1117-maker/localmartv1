@@ -1,0 +1,17 @@
+node_modules/
+dist/
+# Capacitor Android build artifacts
+frontend/android/.gradle/
+frontend/android/app/build/
+frontend/android/build/
+frontend/android/local.properties
+.env
+.env.local
+.env.production
+backend/uploads/*
+!backend/uploads/.gitkeep
+*.log
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+coverage/
