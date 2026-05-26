@@ -15,3 +15,6 @@ backend/uploads/*
 Thumbs.db
 .vscode/settings.json
 coverage/
+next/
+.next/
+.next
